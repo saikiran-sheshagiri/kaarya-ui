@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.categories {
+	display: flex;
+}
+
+.category{
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.category-title {
+	background-color: aquamarine;
+	padding: 5px;
+}
+
+.tasks {
+	
+}
+
+.task {
+	background-color: bisque;
+	margin: 3px;
+	padding: 3px;
+}
